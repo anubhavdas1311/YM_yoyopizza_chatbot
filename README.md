@@ -17,6 +17,8 @@ A pizza ordering chatbot for YoYo Pizza.
 
 6.Then the user is asked to enter the time they want the order to be delivered.
 
+7.Finally, the chatbot replies that the order is being processed.
+
 
 
 # Steps taken to make the bot:
