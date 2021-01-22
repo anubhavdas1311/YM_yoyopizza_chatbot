@@ -24,4 +24,4 @@ A pizza ordering chatbot for YoYo Pizza.
 -Entities and Intents for each possible type of orders are created like pizza type and pizza size and intents like conversation initiation, taking size and type of pizza from user
  then getting the user details and askeing for time to deliver.
  
- -The formed chatbit is tested with the help of Web Demo of Dialogflow.
+ -The formed chatbot is tested with the help of Web Demo of Dialogflow.
