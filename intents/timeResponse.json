@@ -1,0 +1,62 @@
+{
+  "id": "70fd05f1-ed75-48c5-aa02-2235538d4d6f",
+  "name": "timeResponse",
+  "auto": true,
+  "contexts": [
+    "pizza-usrdetails"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "timrResponse",
+          "lifespan": 5
+        },
+        {
+          "name": "pizza-usrdetails",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6f07a991-84e3-4425-aac1-49536330f3e1",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! your order is processing.....:--)",
+            "Sure! we are processing your order....:--)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

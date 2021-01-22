@@ -1,0 +1,162 @@
+[
+  {
+    "id": "2494d379-934c-4d14-9c60-d317f3a231dc",
+    "data": [
+      {
+        "text": "large",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-select",
+        "alias": "pizza-select",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2706dbb-4c2a-48dc-913f-043c2d41ec40",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "veggie",
+        "meta": "@pizza-select",
+        "alias": "pizza-select",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5ca99fc-8e54-48f9-b785-611b160813f6",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "taco",
+        "meta": "@pizza-select",
+        "alias": "pizza-select",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "beaad5c1-9cb1-42a3-8f14-a42b5c84c6a1",
+    "data": [
+      {
+        "text": "big",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c06b42-b020-458f-b48a-856b537926a6",
+    "data": [
+      {
+        "text": "regular",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "taco",
+        "meta": "@pizza-select",
+        "alias": "pizza-select",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "462aa40c-7135-4563-a5c1-ee000446cae5",
+    "data": [
+      {
+        "text": "regular",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5663b02f-3bb8-4012-9f33-78252f83c581",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b9d9d25-23af-4318-8098-6ba7733c8e80",
+    "data": [
+      {
+        "text": "large",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  }
+]

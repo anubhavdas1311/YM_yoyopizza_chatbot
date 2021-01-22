@@ -1,0 +1,305 @@
+[
+  {
+    "id": "7aa826c8-baa6-4956-b1d1-26039825f4ae",
+    "data": [
+      {
+        "text": "want a pepperoni by ",
+        "userDefined": false
+      },
+      {
+        "text": "7pm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d54671f8-6fcf-434b-9df1-c928cfeffa4d",
+    "data": [
+      {
+        "text": "large taco by ",
+        "userDefined": false
+      },
+      {
+        "text": "8pm",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Today",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fba58017-82dc-4f11-b472-ec0ffa03e9bf",
+    "data": [
+      {
+        "text": "veggie by ",
+        "userDefined": false
+      },
+      {
+        "text": "3pm",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "527a0b65-0c0d-4dd2-b9ad-e3a25d2471ba",
+    "data": [
+      {
+        "text": "i want a pepperoni by ",
+        "userDefined": false
+      },
+      {
+        "text": "2pm",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfe4123e-7cec-4944-8122-8ee959ac139a",
+    "data": [
+      {
+        "text": "what\u0027s in the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa949632-0cf6-4988-9d0a-3ff5b71b8754",
+    "data": [
+      {
+        "text": "what can you offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d506a64b-7eda-46bf-9409-6f94f0008017",
+    "data": [
+      {
+        "text": "i want food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebb4164f-d641-4d0e-a226-f79e81c26623",
+    "data": [
+      {
+        "text": "can i get taco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5959746-43f1-4d9f-a53c-9c538ccb981d",
+    "data": [
+      {
+        "text": "can i get pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7634b48d-484a-470c-a331-15a5e5e71be0",
+    "data": [
+      {
+        "text": "hi pizza agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1cad80e-453f-4e32-bd7b-5b2f92d315c1",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6809c081-eb65-41fc-b02e-a9bf3fe452c2",
+    "data": [
+      {
+        "text": "what are there in the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82cb328d-b1ef-4462-aede-88f2e012a758",
+    "data": [
+      {
+        "text": "what pizzas are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "576bc35e-d171-4267-bd9d-0888b0df6b73",
+    "data": [
+      {
+        "text": "hi menu please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e47b5ed4-86c0-47d5-b7d9-9f5fb375cdaa",
+    "data": [
+      {
+        "text": "can i see the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cc9c992-d369-4744-96f6-9dadf3d3cf71",
+    "data": [
+      {
+        "text": "i want pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25c47616-2ccf-4384-aa70-d1a68e7d83c1",
+    "data": [
+      {
+        "text": "hi pizza-agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2d7889c-d307-4de3-a16a-313a0b9811d0",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8e852a-99e7-4d1c-9638-d1e35db1b4b3",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

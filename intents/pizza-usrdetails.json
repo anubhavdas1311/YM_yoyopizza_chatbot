@@ -1,0 +1,108 @@
+{
+  "id": "d0af2cec-2e9d-4f7e-a1c5-52888540c979",
+  "name": "pizza-usrdetails",
+  "auto": true,
+  "contexts": [
+    "pizza-getsize"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "pizza-usrdetails",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b8e43a0d-7b8d-46ef-b5ab-2a56c7aab9c9",
+          "name": "pizza-size",
+          "required": true,
+          "dataType": "@pizza-size",
+          "value": "$pizza-size",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "60f0933d-ed43-4c6e-82bd-97e347f352a2",
+          "name": "firstname",
+          "required": true,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your firstname"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8d03884d-ff1d-420f-99e5-010cc3a0f852",
+          "name": "phoneno",
+          "required": true,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your phone number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1da8bf0b-b588-4035-93c1-33db41dc6d7c",
+          "name": "pizza-select",
+          "required": false,
+          "dataType": "@pizza-select",
+          "value": "$pizza-select",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great $firstname. When do you want your order?  (e.g.  7pm today)",
+            "Sure $firstname. May I know delivery time to your doorstep? (e.g. 7pm today)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

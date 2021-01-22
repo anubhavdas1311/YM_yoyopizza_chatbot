@@ -1,0 +1,42 @@
+{
+  "id": "32853172-bece-4cd3-ba14-be6b7769f2f1",
+  "name": "pizza-init",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "pizza-init",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello there! Welcome to YOYO PIZZA! What do you want to have?    MENU:   Pepperoni,     Basic,     Veggie,    Taco     :--)",
+            "Welcome to YOYO PIZZA!  You can order these from menu only!     MENU:   Pepperoni,     Basic,     Veggie,    Taco     :--)",
+            "Welcome to YOYO PIZZA!  Here is the menu...type the thing you want!     MENU:   Pepperoni,     Basic,     Veggie,    Taco     :--)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

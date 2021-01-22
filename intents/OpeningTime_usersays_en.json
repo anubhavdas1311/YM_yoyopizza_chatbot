@@ -1,0 +1,115 @@
+[
+  {
+    "id": "29682545-9c73-462c-8450-f1381f2687d4",
+    "data": [
+      {
+        "text": "what are your timings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddc2b808-b576-4ef8-8595-e192bf3bbf14",
+    "data": [
+      {
+        "text": "opening time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f47c06a-a13f-497d-ae5e-0789ba090b1b",
+    "data": [
+      {
+        "text": "order timing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adbce997-32fa-4ae5-8f94-2dfa675dda59",
+    "data": [
+      {
+        "text": "what is the order timimg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62e8ae7d-86f3-446e-aff9-760516d93fad",
+    "data": [
+      {
+        "text": "timing please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b3d3ca0-2173-4d5d-a142-5a3bb02cf655",
+    "data": [
+      {
+        "text": "when does the store open agian?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f180fb2f-32ff-460a-b5f8-a58c9fb19a9f",
+    "data": [
+      {
+        "text": "when can i order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36fce1ae-249e-4fab-8d1c-c96f18b1e3f8",
+    "data": [
+      {
+        "text": "When does ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " store open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

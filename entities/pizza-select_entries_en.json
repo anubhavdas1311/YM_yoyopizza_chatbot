@@ -1,0 +1,31 @@
+[
+  {
+    "value": "Basic",
+    "synonyms": [
+      "Basic",
+      "basic"
+    ]
+  },
+  {
+    "value": "Veggie",
+    "synonyms": [
+      "Veggie",
+      "veg",
+      "veggie"
+    ]
+  },
+  {
+    "value": "Taco",
+    "synonyms": [
+      "Taco",
+      "taco"
+    ]
+  },
+  {
+    "value": "Pepperoni",
+    "synonyms": [
+      "Pepperoni",
+      "pepperoni"
+    ]
+  }
+]
